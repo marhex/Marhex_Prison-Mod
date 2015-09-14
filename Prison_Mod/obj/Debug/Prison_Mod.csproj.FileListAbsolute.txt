@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\obj\Debug\Prison_Mod.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\bin\Debug\Prison_Mod.dll
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\bin\Debug\Prison_Mod.pdb
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\bin\Debug\ScriptHookVDotNet.dll
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\obj\Debug\Prison_Mod.dll
+C:\Users\pc\Desktop\Prison_Mod\Prison_Mod\obj\Debug\Prison_Mod.pdb
